@@ -1,0 +1,40 @@
+student-course-enrollment/
+├── backend/
+│   ├── package.json
+│   ├── server.js
+│   ├── database.db
+│   └── requirements.txt
+├── frontend/
+│   ├── public/
+│   │   ├── index.html
+│   │   ├── favicon.ico
+│   │   └── manifest.json
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── StudentForm.js
+│   │   │   ├── CourseForm.js
+│   │   │   ├── EnrollmentForm.js
+│   │   │   ├── StudentList.js
+│   │   │   ├── CourseList.js
+│   │   │   ├── EnrollmentList.js
+│   │   │   ├── About.js
+│   │   │   └── Footer.js
+│   │   ├── services/
+│   │   │   └── api.js
+│   │   ├── styles/
+│   │   │   ├── App.css
+│   │   │   ├── StudentForm.css
+│   │   │   ├── CourseForm.css
+│   │   │   ├── EnrollmentForm.css
+│   │   │   ├── StudentList.css
+│   │   │   ├── CourseList.css
+│   │   │   ├── EnrollmentList.css
+│   │   │   ├── About.css
+│   │   │   └── Footer.css
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── index.css
+│   ├── package.json
+│   └── README.md
+├── .gitignore
+└── README.md

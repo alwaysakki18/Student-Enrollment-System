@@ -1,0 +1,9 @@
+/* EnrollmentForm specific styles if needed */
+.form-group select.error {
+  border-color: #f44336;
+}
+
+.error-text {
+  color: #f44336;
+  font-size: 0.875rem;
+}

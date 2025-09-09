@@ -1,0 +1,9 @@
+/* CourseForm specific styles if needed */
+.form-group input.error {
+  border-color: #f44336;
+}
+
+.error-text {
+  color: #f44336;
+  font-size: 0.875rem;
+}
