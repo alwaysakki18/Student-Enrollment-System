@@ -40,8 +40,9 @@ A comprehensive **full-stack web application** for managing student course enrol
 - SQLite (Lightweight & Relational)
 
 ---
+### Demo Output
+![Demo Screenshot](Demo_Output/Screenshot%202025-09-10%20164442.png)
 
-![Alt Text](path/to/image.png)
 
 
 ---
