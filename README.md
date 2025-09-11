@@ -40,6 +40,11 @@ A comprehensive **full-stack web application** for managing student course enrol
 - SQLite (Lightweight & Relational)
 
 ---
+
+![Alt Text](path/to/image.png)
+
+
+---
 # Clone the Repository
 git clone https://github.com/alwaysakki18/Student-Enrollment-System.git
 cd Student-Enrollment-System
